@@ -26,6 +26,11 @@ Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
 - 💼 [LinkedIn](https://www.linkedin.com/in/nithya-sri-46shiv)
 
 ---
+## 🧠 Hack The Box
+
+[My Hack The Box Profile](https://profile.hackthebox.com/)
+
+---
 
 ## 🛠️ Languages and Tools
 
