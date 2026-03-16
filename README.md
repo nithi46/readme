@@ -10,7 +10,7 @@
 
 💬 **Ask me about:**  
 - Ubuntu  
-- Computer Networking  
+- Computer Networking 
 - SSH  
 
 📫 **How to reach me:**  
@@ -43,7 +43,8 @@ Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
 
 ## 🌐 Networking & Simulation
 
-- 📡 Cisco Packet Tracer  
+Cisco Packet Tracer
+Hyper-V 
 
 ---
 
