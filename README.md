@@ -43,10 +43,16 @@ Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
 
 ## 🌐 Networking & Simulation
 
-Cisco Packet Tracer
-Hyper-V 
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/785aa0cd-91f1-455b-8889-2a78efd9c6c9" /> Cisco Packet Tracer
 
----
+- <img width="18" height="18" alt="image" src="https://github.com/user-attachments/assets/e64446f6-4e35-4cd9-a475-260353aa039e" /> Hyper-V 
+  
+- 🌐 DHCP (Dynamic Host Configuration Protocol)
+
+- 📇 DNS (Domain Name System)
+
+- 🧊 Apache 
+
 
 ## 🚀 Goals
 
