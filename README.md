@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm nithyasri</h1>
-<h3 align="center">A cybersecurity student from India</h3>
 
-# 👋 Hi, I'm Nithya Sri!
+# 👋 Hi, I'm Nithyasri!
 
 🌱 **Cybersecurity Student** passionate about learning and exploring ethical hacking, networking, and system security.
 
@@ -60,6 +58,4 @@ Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
 - Strengthen cybersecurity fundamentals  
 - Build practical networking and Linux-based projects  
 - Contribute to open-source security tools  
-- Practing on security and networking
-
-
+- Practing on security and network👋 H
