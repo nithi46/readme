@@ -37,7 +37,8 @@ Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
 - 🐧 Linux  
 - 🖥️ Bash  
 - 🐍 Python  
-- 🗄️ MySQL   
+- 🗄️ MySQL
+- <img width="18" height="18" src="https://img.icons8.com/color/48/firewall.png" alt="firewall"/> LUKS & Firewalld
 
 ---
 
