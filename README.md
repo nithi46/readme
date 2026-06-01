@@ -6,16 +6,10 @@
 👨‍💻 All of my projects are available at:  
 🔗 [GitHub Repositories](https://github.com/nithi46?tab=repositories)
 
-💬 **Ask me about:**  
-- Ubuntu  
-- Computer Networking 
-- SSH  
-
 📫 **How to reach me:**  
 - 📧 Email: nithinandi@gmail.com  
 
-⚡ **Fun Fact:**  
-Cybersecurity learning is not a hurry — it’s a journey of continuous growth!
+⚡  Cybersecurity learning is not a hurry — it’s a journey of continuous growth!  ⚡  
 
 ---
 
